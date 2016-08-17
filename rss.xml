@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[what I'm into]]></title>
         <description><![CDATA[what I'm into]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/what-im-into/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 19:00:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 19:04:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/what-im-into/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Limits of the Lean Startup Method]]></title>
+            <description><![CDATA[<article><h1>The Limits of the Lean Startup Method</h1><p>Advocates of the lean startup method for creating a business advise entrepreneurs, as well as corporate intrapreneurs, to document, test, and refine their assumptions about a new venture's business model via customer conversations and experiments. My recent research on 250 teams that participated in an American cleantech accelerator program during the last 10 years found...</p><img src="http://cdn.scooblrinc.com/assets/uploads/2016/08/64196.jpg"></article>]]></description>
+            <link>http://scooblrinc.com/limits-lean-startup-method/</link>
+            <guid isPermaLink="false">5b23d154-afc1-4d9a-9cb0-585f4863a70e</guid>
+            <pubDate>Wed, 17 Aug 2016 19:03:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Amazon is introducing 1-Click food purchases inside its own Prime Video shows]]></title>
-            <description><![CDATA[<article><h1>Amazon is introducing 1-Click food purchases inside its own Prime Video shows</h1><p>Amazon is releasing a series of shows about Japanese cuisine that will let viewers buy featured products with a single click inside the app, Nikkei reports. The shows are being produced as part of a tie-up with entertainment giant Yoshimoto Kogyo; the first will feature comedy duo Taka and Toshi along with foods from their native Hokkaido.</p><img src="https://cdn0.vox-cdn.com/thumbor/hgE89cj_1BWgiJIiKh7O7DzI1z0=/0x0:2039x1147/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50362737/amazon-stock-0830.0.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Amazon is introducing 1-Click food purchases inside its own Prime Video shows</h1><p>Amazon is releasing a series of shows about Japanese cuisine that will let viewers buy featured products with a single click inside the app, Nikkei reports. The shows are being produced as part of a tie-up with entertainment giant Yoshimoto Kogyo; the first will feature comedy duo Taka and Toshi along with foods from their native Hokkaido.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e42757e9f80579cea6d763de5e0fbda1/noop.jpg?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FhgE89cj_1BWgiJIiKh7O7DzI1z0%3D%2F0x0%3A2039x1147%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50362737%2Famazon-stock-0830.0.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/8/12/12449950/amazon-1-click-prime-video-food-japan</link>
             <guid isPermaLink="false">6cf64b61-bf30-465a-a9c5-66e2c6ea5fc4</guid>
             <pubDate>Wed, 17 Aug 2016 18:59:26 GMT</pubDate>
